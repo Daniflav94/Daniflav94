@@ -7,7 +7,7 @@
 
 ##
 
-###### ☕ Desenvolvedora web fullstack em andamento ...                
+###### ☕ Desenvolvedora fullstack em andamento ...                
 ###### 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas
 ###### 🌱 Atualmente trabalhando no meu site portfólio </div>
 ###### 💻 Em busca da minha primeira oportunidade como desenvolvedora 
