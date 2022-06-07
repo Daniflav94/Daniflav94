@@ -5,8 +5,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniflav94&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-###          
-##### ☕ Desenvolvedora web fullstack em andamento ...
+ ![courage-the-cowardly-dog-coding](https://user-images.githubusercontent.com/99519903/172457488-76949708-ce97-4291-8f09-1cb4b0dafbfd.gif)         
+##### ☕ Desenvolvedora web fullstack em andamento ...                
 ##### 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas
 ##### 🌱 Atualmente trabalhando no meu site portfólio </div>
 ##### 💻 Em busca da minha primeira oportunidade como desenvolvedora 
@@ -22,6 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
 
 
-          
-![Snake animation](https://github.com/Daniflav94/Daniflav94/blob/output/github-contribution-grid-snake.svg)
+
+
           
