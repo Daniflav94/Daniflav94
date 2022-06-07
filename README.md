@@ -1,5 +1,4 @@
-## Olá, eu sou Daniele, 👋
-## Bem vindo ao meu GitHub!!
+<img src="BE2ABFB2-BA1D-46F0-AFE1-DFB928EB795D.jpeg">
 
 
 
