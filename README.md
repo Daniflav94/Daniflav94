@@ -8,10 +8,10 @@
 ##
 
 ###### ☕ Desenvolvedora fullstack em andamento ...                
-###### 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas
-###### 🌱 Atualmente trabalhando no meu site portfólio </div>
-###### 💻 Em busca da minha primeira oportunidade como desenvolvedora 
-###### ⚡ Curiosidade: amo cinema e jogar LOL 
+###### 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas;
+###### 🌱 Atualmente trabalhando no meu portfólio; </div>
+###### 💻 Em busca da minha primeira oportunidade como desenvolvedora;
+###### ⚡ Curiosidade: amo cinema e jogar LOL.
 
 ##
 
