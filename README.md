@@ -25,12 +25,14 @@
 </div>
 
 ##
+<div align="center">
 
-###### ☕ Atualmemte focada em aprender tecnologias Back-End.                
-###### 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas;
-###### 💻 Em busca da minha primeira oportunidade como desenvolvedora;
-###### ⚡ Curiosidade: amo cinema e jogar LOL.
+##### ☕ Atualmemte focada em aprender tecnologias Back-End.                
+##### 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas;
+##### 💻 Em busca da minha primeira oportunidade como desenvolvedora;
+##### ⚡ Curiosidade: amo cinema e jogar LOL.
 
+</div>
 ##
 
 <div align="center">
