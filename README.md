@@ -33,7 +33,7 @@
 ##### ⚡ Curiosidade: amo cinema e jogar LOL.
 
 </div>
-##
+
 
 <div align="center">
      <a href = "mailto:danyelly_mell@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
