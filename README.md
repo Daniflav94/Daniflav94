@@ -27,7 +27,7 @@
 <div align="center">
 
 ##### ☕ Atualmente focada em aprender tecnologias Back-End.                
-##### 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas;
+##### 🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas e Bootcamp Java Full Stack da SoulCode Acamdey;
 ##### 💻 Em busca da minha primeira oportunidade como desenvolvedora;
 ##### ⚡ Curiosidade: amo cinema e jogar LOL.
 
