@@ -1,7 +1,6 @@
  <div align="center">    
    <img src="https://user-images.githubusercontent.com/99519903/205171788-8877f560-0534-457d-be87-64eee01c5a1d.png">
  </div>
- <br/>
 
 <div align="center">
  
@@ -10,7 +9,7 @@
 ##### 💻 Em busca da minha primeira oportunidade como desenvolvedora; 
 ##### ⚡ Curiosidade: amo cinema e jogar LOL.
  
-
+ <br/>
 </div>
 <div align="center">
  
