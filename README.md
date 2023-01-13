@@ -2,7 +2,7 @@
    <img src="https://user-images.githubusercontent.com/99519903/207432268-fb0fcd1f-f347-45f7-a686-0da4a75c0369.png">
  </div>
  <div align="center">
-   
+   <br>
    <a href = "mailto:danyelly_mell@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
    <a href="https://www.linkedin.com/in/daniele-flaviane-santos-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <br>
