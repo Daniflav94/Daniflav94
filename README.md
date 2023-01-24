@@ -22,6 +22,9 @@
 
 ##
 <div align="center"> 
+
+### Minhas Skills
+
 <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" />
@@ -36,9 +39,12 @@
 
 ##
 <div align="center">
+
+### Minhas Estatísticas
+
  <br>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniflav94&show_icons=true&theme=nightowl)
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daniflav94&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniflav94&layout=compact&langs_count=7&theme=nightowl"/>
 
 </div>
 
