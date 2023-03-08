@@ -12,7 +12,7 @@
 <div style="display: inline_block">
   <div align="center" >
     <p width="100">🎓 Cursando segundo semestre em Análise e Desenvolvimento de Sistemas; </p>                
-    <p width="100"> 📚 Finalizando Bootcamp Java Full Stack de 4 meses da SoulCode Academy;</p>
+    <p width="100"> 🔨 Atualmente estou desenvolvendo projetos para meu portfólio;</p>
     <p width="100">💻 Em busca da minha primeira oportunidade como desenvolvedora; </p>                
     <p width="100">⚡ Curiosidade: amo cinema e jogar LOL.</p>
   </div>
