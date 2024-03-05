@@ -11,8 +11,7 @@
 <br>
 <div style="display: inline_block">
   <div align="center" >
-    <p width="100">🎓 Cursando terceiro semestre em Análise e Desenvolvimento de Sistemas; </p>                
-    <p width="100">💻 Atuando como Analista Desenvolvedora na empresa Global Hitss; </p>  
+    <p width="100">🎓 Cursando último semestre em Análise e Desenvolvimento de Sistemas; </p>                
    <p width="100">🚀   Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes;</p>
     <p width="100">⚡ Curiosidade: amo cinema e jogar LOL.</p>
   </div>
